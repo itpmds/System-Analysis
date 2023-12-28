@@ -1,44 +1,44 @@
-# 系统分析任务：生物数学的理论部分 / System Analysis Tasks: Theoretical Aspects of Biomathematics / Задачи системного анализа: Теоретические аспекты биоматематики
+# System Analysis Tasks: Theoretical Aspects of Biomathematics / 系统分析任务：生物数学的理论部分 / Задачи системного анализа: Теоретические аспекты биоматематики
 
-## (A) 自主动力系统 / (A) Autonomous Dynamical System / (A) Автономная динамическая система
+## (A) Autonomous Dynamical System / 自主动力系统 / Автономная динамическая система
 
-[1. 自主动力系统的方程：$\dot{u} = f(u), u \in \mathbb{R}$](#equation) | [Equation of the autonomous dynamical system: $\dot{u} = f(u), u \in \mathbb{R}$](#equation-en) | [Уравнение автономной динамической системы: $\dot{u} = f(u), u \in \mathbb{R}$](#equation-ru)
-[2. 自主动力系统的相轨迹性质](#property) | [Property of phase trajectories of the autonomous dynamical system](#property-en) | [Свойство фазовых траекторий автономной динамической системы](#property-ru)
-[3. 自主动力系统的相轨迹类型](#types) | [Types of phase trajectories of the autonomous dynamical system](#types-en) | [Типы фазовых траекторий автономной динамической системы](#types-ru)
-[4. 利乌维尔定理：相体积变化速率](#liouville) | [Liouville's theorem on the rate of change of phase volume](#liouville-en) | [Теорема Лиувилля о скорости изменения фазового объёма](#liouville-ru)
+| **Number** | **Chinese** | **English** | **Russian** |
+| ---------- | ----------- | ----------- | ----------- |
+| 1          | 自主动力系统的方程：$\dot{u} = f(u), u \in \mathbb{R}$ | Equation of the autonomous dynamical system: $\dot{u} = f(u), u \in \mathbb{R}$ | Уравнение автономной динамической системы: $\dot{u} = f(u), u \in \mathbb{R}$ |
+| 2          | 自主动力系统的相轨迹性质 | Property of phase trajectories of the autonomous dynamical system | Свойство фазовых траекторий автономной динамической системы |
+| 3          | 自主动力系统的相轨迹类型 | Types of phase trajectories of the autonomous dynamical system | Типы фазовых траекторий автономной динамической системы |
+| 4          | 利乌维尔定理：相体积变化速率 | Liouville's theorem on the rate of change of phase volume | Теорема Лиувилля о скорости изменения фазового объёма |
 
-### 1. 自主动力系统的方程：$\dot{u} = f(u), u \in \mathbb{R}$
-<!-- 中文内容 -->
+## (B) Classification of Equilibrium Positions / 平衡位置的分类 / Классификация положений равновесия
 
-### 1. Equation of the autonomous dynamical system: $\dot{u} = f(u), u \in \mathbb{R}"
-<!-- English content -->
+| **Number** | **Chinese** | **English** | **Russian** |
+| ---------- | ----------- | ----------- | ----------- |
+| 5          | 在非奇异点附近拉直矢量场的引理 | Lemma on straightening the vector field in the vicinity of a non-singular point | Лемма о выпрямлении векторного поля в окрестности неособой точки |
+| 6          | 利雅普诺夫-庞加莱定理：通过第一近似研究自主动力系统平衡位置的性质 | Lyapunov-Poincaré theorem on investigating the nature of equilibrium positions of the autonomous dynamical system by the first approximation | Теорема Ляпунова-Пуанкаре об исследовании характера положения равновесия автономной динамической системы по первому приближению |
+| 7          | 双曲型平衡位置的类型 | Types of hyperbolic equilibrium positions | Типы гиперболических положений равновесия |
+| 8          | 函数沿动力系统轨迹的导数 | Derivative of a function along the trajectory of a dynamical system | Производная функции вдоль траектории динамической системы |
 
-### 1. Уравнение автономной динамической системы: $\dot{u} = f(u), u \in \mathbb{R}$
-<!-- Russian content -->
+## (C) First Integrals. Lyapunov Function / 第一积分. 利雅普诺夫函数 / Первые интегралы. Функция Ляпунова
 
-### 2. 自主动力系统的相轨迹性质
-<!-- 中文内容 -->
+| **Number** | **Chinese** | **English** | **Russian** |
+| ---------- | ----------- | ----------- | ----------- |
+| 9          | 动力系统的第一积分 | First integral of a dynamical system | Первый интеграл динамической системы |
+| 10         | 利雅普诺夫函数 | Lyapunov function | Функция Ляпунова |
+| 11         | 利雅普诺夫稳定性定理 | Lyapunov's stability theorem | Теорема Ляпунова об устойчивости |
+| 12         | 动力系统平衡位置的吸引域 | Domain (basin) of attraction of the equilibrium position of a dynamical system | Область (бассейн) притяжения положения равновесия динамической системы |
+| 13         | 动力系统的正不变集合。例子 | Positively invariant sets of a dynamical system. Examples | Положительно инвариантные множества динамической системы. Примеры |
 
-### 2. Property of phase trajectories of the autonomous dynamical system
-<!-- English content -->
+## (D) Limit Sets / 极限集 / Предельные множества
 
-### 2. Свойство фазовых траекторий автономной динамической системы
-<!-- Russian content -->
+| **Number** | **Chinese** | **English** | **Russian** |
+| ---------- | ----------- | ----------- | ----------- |
+| 14         | Ω-极限和α-极限集 | Omega-limit and alpha-limit sets | Омега-предельные и альфа-предельные множества |
+| 15         | 利用沿轨迹的导数寻找极限集的定理 | Theorem on finding limit sets using the derivative along the trajectory | Теорема об нахождении предельных множеств с помощью производной вдоль траектории |
+| 16         | 拉萨尔定理：轨迹的极限行为 | LaSalle's theorem on the limiting behavior of a trajectory | Теорема Ласалля о предельном поведении траектории |
 
-### 3. 自主动力系统的相轨迹类型
-<!-- 中文内容 -->
+## (E) Additional Theories / 附加理论 / Дополнительные теории
 
-### 3. Types of phase trajectories of the autonomous dynamical system
-<!-- English content -->
-
-### 3. Типы фазовых траекторий автономной динамической системы
-<!-- Russian content -->
-
-### 4. 利乌维尔定理：相体积变化速率
-<!-- 中文内容 -->
-
-### 4. Liouville's theorem on the rate of change of phase volume
-<!-- English content -->
-
-### 4. Теорема Лиувилля о скорости изменения фазового объёма
-<!-- Russian content -->
+| **Number** | **Chinese** | **English** | **Russian** |
+| ---------- | ----------- | ----------- | ----------- |
+| 17         | 极限环和循环矩阵 | Limit cycle and circulant matrix | Предельный цикл и матрица циркулянта |
+| 18         | 杜拉克准则：动力系统中闭合轨迹的缺失 | Dulac's criterion for the absence of closed trajectories in a dynamical system | Критерий Дюлака отсутствия замкнутых траекторий динамической системы |
