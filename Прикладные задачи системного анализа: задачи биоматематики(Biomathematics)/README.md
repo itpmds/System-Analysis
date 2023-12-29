@@ -42,3 +42,19 @@
 | -------- | ------- | ------- | ------- |
 | 17       | 极限环和循环矩阵 | Limit cycle and circulant matrix | Предельный цикл и матрица циркулянта |
 | 18       | 杜拉克准则：动力系统中闭合轨迹的缺失 | Dulac's criterion for the absence of closed trajectories in a dynamical system | Критерий Дюлака отсутствия замкнутых траекторий динамической системы |
+
+# Задачи системного анализа: Модели биоматематики
+
+当然，我可以帮你为表格中的每行添加序号。下面是带有序号的表格：
+
+| 序号 | 中文描述 | Описание | Description |
+|-----|---------|---------|-------------|
+| 1   | 洛特卡-沃尔泰拉系统 "捕食者-猎物"，沃尔泰拉原则 | Система Лотки–Вольтерры "хищник–жертва", Принцип Вольтерры | Lotka-Volterra system "predator-prey," Volterra's principle |
+| 2   | 考虑种内竞争的 "捕食者-猎物" 系统 | Система "хищник–жертва" с учетом внутривидовой конкуренции | "Predator-prey" system with intraspecific competition taken into account |
+| 3   | 科尔莫戈洛夫人口模型，一般情况下的捕食者模型，马尔萨斯定律 | Популяционная модель Колмогорова, модель хищника в общем случае, закон Мальтуса | Kolmogorov's population model, general predator model, Malthusian law |
+| 4   | 一般形式的 "捕食者-猎物" 模型。 Logistic方程。 侯默法则。一开始快速增长，然后线性 | Модель "хищник–жертва" в общем виде. Логистическое уравнение. Закон Гомперца. Быстрый рост в начале, потом линейный | General form of the "predator-prey" model. Logistic equation. Gompertz law. Rapid growth at the beginning, then linear |
+| 5   | 竞争模型。 高兹模型 | Модель конкуренции. Модель Гаузе | Competition model. Gause model |
+| 6   | 高兹中的 "捕食者-猎物" 系统 | Система "хищник–жертва" в гаузе | "Predator-prey" system in Gause |
+| 7   | 食物链模型 | Модель пищевой цепи | Food chain model |
+| 8   | Eigen模型（独立复制。自催化复制。带错误。超循环复制） | Модель Эйгена(Независимая репликация. Автокаталитическая репликация. С ошибкой. Гиперцикличекая репликация) | Eigen model (Independent replication. Autocatalytic replication. With error. Hypercyclic replication) |
+| 9   | 物种扩散的分布式系统（费歇尔方程。 科尔莫戈洛夫-费歇尔方程） | Распределенные системы распространения видов(равнение Фишера. Уравнение Колмогорова-Фишера) | Distributed systems of species distribution (Fisher equation. Kolmogorov-Fisher equation) |
